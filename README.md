@@ -1,2 +1,2 @@
 # learning
-this is a repo for learning purpose
+this is a repo for learning purpose.
